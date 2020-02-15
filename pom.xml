@@ -45,4 +45,8 @@
         </plugins>
     </build>
 
+    <scm>
+        <developerConnection>scm:git:git@github.com:codecourse-cc/pets.git</developerConnection>
+    </scm>
+
 </project>
